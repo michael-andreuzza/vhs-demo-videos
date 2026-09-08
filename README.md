@@ -4,10 +4,10 @@ An agent skill for making terminal demo videos with
 [VHS](https://github.com/charmbracelet/vhs): docs videos rendered from
 `.tape` scripts committed to your repo, instead of screen recordings.
 
-By [Michael Andreuzza](https://lexingtonthemes.com). Every video in the
-Lexington Themes documentation is rendered this way; this skill is the
-distilled version of what makes those renders clean, deterministic, and
-re-runnable.
+By [Michael Andreuzza](https://michaelandreuzza.com) at
+[Lexington Themes](https://lexingtonthemes.com). Every video in the
+Lexington docs is rendered this way; this skill is the distilled version of
+what makes those renders clean, deterministic, and re-runnable.
 
 ## Why tapes instead of recordings
 

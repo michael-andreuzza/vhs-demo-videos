@@ -170,6 +170,6 @@ For flows that drive a TUI (an AI agent CLI, an installer):
 
 ---
 
-Maintained by [Michael Andreuzza](https://lexingtonthemes.com), maker of
-Lexington Themes. Every video in the Lexington docs is rendered from tapes
-written this way.
+Maintained by [Michael Andreuzza](https://michaelandreuzza.com) at
+[Lexington Themes](https://lexingtonthemes.com). Every video in the
+Lexington docs is rendered from tapes written this way.
