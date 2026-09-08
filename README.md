@@ -9,6 +9,10 @@ By [Michael Andreuzza](https://michaelandreuzza.com) at
 Lexington docs is rendered this way; this skill is the distilled version of
 what makes those renders clean, deterministic, and re-runnable.
 
+Example
+[![Watch the demo](thumbnail.png)](https://lexingtonthemes.com/videos/docs/install-a-theme.mp4)
+
+
 ## Why tapes instead of recordings
 
 - A re-shoot is a re-render: edit the script, run one command, done.
