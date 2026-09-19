@@ -10,7 +10,7 @@ Lexington docs is rendered this way; this skill is the distilled version of
 what makes those renders clean, deterministic, and re-runnable.
 
 Example
-[![Watch the demo](thumbnail.png)](https://lexingtonthemes.com/documentation/getting-started#:~:text=2.%20Access%20your%20purchase)
+[[Watch the demo](thumbnail.png)](https://lexingtonthemes.com/documentation/getting-started#:~:text=2.%20Access%20your%20purchase)
 
 
 ## Why tapes instead of recordings
